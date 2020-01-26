@@ -30,7 +30,7 @@ render(){
   )
 return(
     <div className='App'>
-    
+    <h1>Monsters</h1>
    <SearchBox placeholder='search monster' handleChange={this.handleChange}/>
     <CardList monsters={filterMonster} />
   
