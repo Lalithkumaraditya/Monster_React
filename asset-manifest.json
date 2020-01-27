@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/live-monstors/static/css/main.e9738734.chunk.css",
-    "main.js": "/live-monstors/static/js/main.94b9b588.chunk.js",
-    "main.js.map": "/live-monstors/static/js/main.94b9b588.chunk.js.map",
-    "runtime-main.js": "/live-monstors/static/js/runtime-main.d788a26c.js",
-    "runtime-main.js.map": "/live-monstors/static/js/runtime-main.d788a26c.js.map",
-    "static/js/2.b634fb3f.chunk.js": "/live-monstors/static/js/2.b634fb3f.chunk.js",
-    "static/js/2.b634fb3f.chunk.js.map": "/live-monstors/static/js/2.b634fb3f.chunk.js.map",
-    "index.html": "/live-monstors/index.html",
-    "precache-manifest.773f3be897e8443fefa0eef827a508d1.js": "/live-monstors/precache-manifest.773f3be897e8443fefa0eef827a508d1.js",
-    "service-worker.js": "/live-monstors/service-worker.js",
-    "static/css/main.e9738734.chunk.css.map": "/live-monstors/static/css/main.e9738734.chunk.css.map",
-    "static/js/2.b634fb3f.chunk.js.LICENSE": "/live-monstors/static/js/2.b634fb3f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/live-monstors/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Monster_React/static/css/main.e9738734.chunk.css",
+    "main.js": "/Monster_React/static/js/main.438ca435.chunk.js",
+    "main.js.map": "/Monster_React/static/js/main.438ca435.chunk.js.map",
+    "runtime-main.js": "/Monster_React/static/js/runtime-main.01c0feae.js",
+    "runtime-main.js.map": "/Monster_React/static/js/runtime-main.01c0feae.js.map",
+    "static/js/2.b634fb3f.chunk.js": "/Monster_React/static/js/2.b634fb3f.chunk.js",
+    "static/js/2.b634fb3f.chunk.js.map": "/Monster_React/static/js/2.b634fb3f.chunk.js.map",
+    "index.html": "/Monster_React/index.html",
+    "precache-manifest.5194d38075710b18d1687bf87035a813.js": "/Monster_React/precache-manifest.5194d38075710b18d1687bf87035a813.js",
+    "service-worker.js": "/Monster_React/service-worker.js",
+    "static/css/main.e9738734.chunk.css.map": "/Monster_React/static/css/main.e9738734.chunk.css.map",
+    "static/js/2.b634fb3f.chunk.js.LICENSE": "/Monster_React/static/js/2.b634fb3f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Monster_React/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d788a26c.js",
+    "static/js/runtime-main.01c0feae.js",
     "static/js/2.b634fb3f.chunk.js",
     "static/css/main.e9738734.chunk.css",
-    "static/js/main.94b9b588.chunk.js"
+    "static/js/main.438ca435.chunk.js"
   ]
 }
